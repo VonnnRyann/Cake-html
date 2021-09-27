@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@300&display=swap');
+footer, span{
+    font-weight: bold;
+    color: blue;
+}
+div {
+    font-family: 'Stick No Bills', sans-serif;
+}
+h2 {
+    margin-bottom: -19px;
+}
+ul, ol {
+    font-size: larger;
+
+}
+table {
+    border-collapse: collapse;
+}
+/* its done */
